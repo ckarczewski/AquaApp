@@ -1,0 +1,7 @@
+django
+firebase_admin
+python-decouple
+djangorestframework
+django-environ
+psycopg2
+django-cors-headers

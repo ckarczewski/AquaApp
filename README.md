@@ -1,0 +1,1 @@
+AquaApp is a aquarium quality monitoring web system for monitoring user's aquariums. The application includes Admin panel view for creating aquarium templates, accessories, decorators, knowledge base and defining allowed fish types. Dashboard view for user allows for personal Aquariums management and water parameters monitoring.
